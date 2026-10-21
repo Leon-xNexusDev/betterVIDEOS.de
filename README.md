@@ -13,7 +13,7 @@ Statische, responsive Website aus HTML, CSS und JavaScript. Kein Framework, kein
 | `case-study-conrad-clemens.html` | Case Study mit den Zahlen aus der Excel-Tabelle |
 | `ueber-uns.html` | Über uns |
 | `kontakt.html` | Kontakt mit Formular (öffnet das Mailprogramm) |
-| `impressum.html`, `datenschutz.html` | Vorlagen, müssen vervollständigt werden |
+| `impressum.html`, `datenschutz.html` | Rechtstexte (im Datenschutz fehlt noch der Hosting-Anbieter) |
 
 Styles: `assets/css/style.css`. Interaktionen: `assets/js/main.js`.
 
@@ -32,13 +32,10 @@ Alle Buttons „Termin sichern“ und „Konzeptgespräch“ führen aktuell auf
 - Das Kontaktformular speichert nichts, es öffnet das Mailprogramm.
 - Ausnahme: Die Vorschaubilder der Videokarten kommen direkt von Vimeo (oEmbed, erst wenn die Karte ins Bild scrollt). Dabei sieht Vimeo die IP-Adresse der Besucher. Das gehört in die Datenschutzerklärung.
 
-## Noch offen (Suche im HTML nach `[`)
+## Noch offen
 
-- Preise und Inhalte der Event-Pakete und der Fotobox
-- Preisrahmen in den FAQ (Imagevideo, Veranstaltungsvideo, Recruitingvideo)
-- Maurices Rolle, Kurzvorstellungen von Till und Maurice
-- Zitat von Gerd Weise (Altstadtfest)
-- Einleitungstext der Case Study
-- Social-Media-Links im Footer (stehen auf `#`)
-- Vimeo-Links der ODEG-Azubi-Videos und JU-Reels
-- Impressum und Datenschutz
+- Inhalte und Preise der Event-Pakete (stehen auf „Preis auf Anfrage / Kommt bald.“)
+- Kurzvorstellungen von Till und Maurice (stehen auf „...“)
+- Einleitungstext der Case Study (auskommentiert)
+- Vimeo-Links der restlichen ODEG-Azubi-Videos und der JU-Reels
+- Hosting-Anbieter und Log-Speicherdauer in der Datenschutzerklärung (Suche nach `[`)
