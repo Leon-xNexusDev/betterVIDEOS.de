@@ -13,7 +13,7 @@ Statische, responsive Website aus HTML, CSS und JavaScript. Kein Framework, kein
 | `case-study-conrad-clemens.html` | Case Study mit den Zahlen aus der Excel-Tabelle |
 | `ueber-uns.html` | Über uns |
 | `kontakt.html` | Kontakt mit Formular (öffnet das Mailprogramm) |
-| `impressum.html`, `datenschutz.html` | Rechtstexte (im Datenschutz fehlt noch der Hosting-Anbieter) |
+| `impressum.html`, `datenschutz.html` | Rechtstexte |
 
 Styles: `assets/css/style.css`. Interaktionen: `assets/js/main.js`.
 
@@ -38,4 +38,3 @@ Alle Buttons „Termin sichern“ und „Konzeptgespräch“ führen aktuell auf
 - Kurzvorstellungen von Till und Maurice (stehen auf „...“)
 - Einleitungstext der Case Study (auskommentiert)
 - Vimeo-Links der restlichen ODEG-Azubi-Videos und der JU-Reels
-- Hosting-Anbieter und Log-Speicherdauer in der Datenschutzerklärung (Suche nach `[`)
